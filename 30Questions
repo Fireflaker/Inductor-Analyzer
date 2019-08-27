@@ -1,0 +1,77 @@
+Inductance meter/ core material saturation analyzer
+What ADC topology to use (real-time/equivalent time)
+What microcontroller to use
+How to expand the subject under test to transformers
+How to connect the subject under test
+How to switch the high current
+How to design the voltage-controlled charge pump
+What is the budget
+Make a calendar
+Make an engineering notebook
+What medium to construct on
+How to ensure it can be scaled up
+Is there a market
+Is there competition on the market
+What sample rate to use
+What sampling topology to use
+How to celebrate		< pop some champagne and throw a party! 
+Where to look for help
+Who to ask for collaboration
+How to not make this an in the room project
+What is the power source
+Is this idea even worth it
+What could it do if the input is more than a pulse
+Consider 4 wire measurement
+Consider V-I measurement
+Is there existing analog frontend to be used
+Do I need more experience in designing 100MHz bandwidth circuits
+How repeatable is it
+How reliable is it
+How to deploy at science fare
+PCB layout and BOM needed
+31. What is an ADC
+32. Can it be made in an inexpensive way.(cutting budget cost)
+	Easy-switcher toolkit for EE enthusiasts
+Is there a market
+What topologies shall I offer
+What is the purpose
+How to deploy
+What close-loop design shall I use
+What price range
+Is it too simple to worth purchasing
+How to allow max flexibility
+Interlinked daughterboards
+What is the budget
+How to get collaboration
+Trigger types
+Also include transformer design toolkit
+Power range
+Kickstarter
+Make more uses out of them
+Other toolkits that simplify power design
+PCB merchant or open-source idea
+What microcontroller to use
+Do long-range Octo drive
+Make a Microcontroller driver(software)
+Make a whole line of modules to assemble a PSU
+Resonance mode switcher!!!
+Resonant frequency finder
+Analyze all necessary variables
+Include wires
+Safety rating
+Solderless operation 
+How to minimize price and maximize DIY
+How to push to market
+Will it have a manual?                     Maybe
+Is it fully safe                                   Not at all
+How can i improve safety?              Warings
+The people who are going to sell them will have any previous knowledge to help the customers?                                       Yes
+Will there be an on-line guide?          Good idea
+There will be customer support?       
+How to sell/market the product.
+ Can it be made in an inexpensive way.(cutting budget cost
+Ideas for other toolkits:
+Resonance PLL driver
+12V server PSU isolated buck-boost (Simple flyback) with aux outs
+	Active current Limiter
+	Isolated DC-DC converter
