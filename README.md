@@ -12,3 +12,6 @@ Build a DAQ, use ADC and a Raspbeyy pi/FPGA to read and keep only the useful dat
 
 
 So far:
+!(1)[https://github.com/Fireflaker/Inductor-Analyzer/blob/master/V0.1%20diagram.PNG]
+!(2)[https://github.com/Fireflaker/Inductor-Analyzer/blob/master/IMG_20190913_230803.jpg]
+!(3)[https://github.com/Fireflaker/Inductor-Analyzer/blob/master/IMG_20191018_012804.jpg]
